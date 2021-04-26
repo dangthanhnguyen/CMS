@@ -1,0 +1,1 @@
+[Mon Apr 26 16:30:17.871864 2021] [access_compat:error] [pid 1992:tid 1148] [client 127.0.0.1:55113] AH01797: client denied by server configuration: E:/CMS/CMS/wp-content/uploads/woocommerce_uploads/, referer: http://wordpress.local/wp-content/uploads/woocommerce_uploads/
